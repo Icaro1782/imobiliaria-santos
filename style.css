@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    font-family: tahoma;
+}
+
+.editorlink {
+    margin-top: 20px;
+
+}
+
+.editorlink a {
+    margin: 0 10px;
+    font-size: 18px;
+    color: black;
+    text-decoration: underline;
+
+}
+
+a {
+
+    text-decoration: none;
+}
+
+
+.primeirasecao {
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #afddfb;
+
+}
+
+
+.setimasecao {
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: #3498DB;
+
+}
+
+
+
+.imgprimeirasecao {
+
+    width: 150px;
+}
+
+.titulocorretor {
+
+    color: blue
+}
+
+
+.corimobiliaria {
+
+    color: #1c81c0
+}
+
+.imgprimeirasecao1 {
+
+    width: 450px;
+}
+
+.textoazul {
+    font-weight: bold;
+    color: #1c81c0
+}
+
+.quintasecao {
+
+    background-color: #3498DB;
+}
+
+.subtituloservico {
+    line-height: 42px;
+    font-size: 28px;
+    color: white
+}
+
+.paragrafoquintasecao {
+
+    color: white;
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+
+}
+
+.coramarelo {
+
+    color: yellow;
+}
+
+.listas {
+
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 135px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.psetimasecao {
+
+    color: white;
+    margin-top: 30px;
+    padding: 30px;
+    background-color: black;
+    max-width: 983px;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+.links {
+
+    margin-top: 40px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    width: 210px;
+    margin-left: auto;
+    list-style: none;
+    text-decoration: underline;
+}
+
+
+.cordefundoa {
+
+    background-color: white;
+}
+
+.cordetexto {
+
+    color: white;
+}
+
+.corretores1 {
+
+    text-decoration: underline;
+}
+
+.segundasecao,
+.terceirasecao,
+.quartasecao,
+.quintasecao,
+.sextasecao {
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
